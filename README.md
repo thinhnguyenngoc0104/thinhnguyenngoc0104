@@ -1,4 +1,4 @@
-<b>Hey there👋, my name is Tran Huy</b>
+<b>Hey there👋, my name is Nguyen Ngoc Thinh</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <div style="align:left;">
@@ -20,7 +20,7 @@
 - 💡 I’m curious about exploring machine learning and its applications in software development.
 - 📖 I’m currently learning more about CI/CD pipelines and DevOps practices.
 - ❄️ I’m looking to collaborate on open-source projects that focus on innovative solutions for real-world problems.
-- 📫 How to reach me tranquanghuyit09@gmail.com.
+- 📫 How to reach me thinhnguyenngoc0104@gmail.com.
 
 <hr>
 
